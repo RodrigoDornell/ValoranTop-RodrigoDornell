@@ -131,6 +131,10 @@ p{
     background-repeat: no-repeat;
     height: 100vh;
 }
+.producto{
+    background-color:rgb(78, 4, 4) ;
+    margin: 2rem;
+}
 @media screen and (max-width: 768px) {
     .MainAgentes { 
         grid-template-columns: repeat(8, 1fr);
