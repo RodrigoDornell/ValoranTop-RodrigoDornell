@@ -1,0 +1,28 @@
+footer {
+  background: black;
+  padding: 20px;
+  display: block;
+}
+
+footer li {
+  display: inline-block;
+}
+
+footer li li a {
+  color: #d6d1d1;
+  text-decoration: none;
+  padding: 30px 30px;
+}
+
+footer li li a li:hover {
+  background-color: #4e0404;
+}
+
+.mParche {
+  background-color: purple;
+}
+
+header img {
+  max-width: 100px;
+}
+/*# sourceMappingURL=style.css.map */
