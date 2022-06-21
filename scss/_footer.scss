@@ -1,0 +1,22 @@
+footer {
+	background: $colorFondo;
+	padding: 20px;
+	display: block;
+	li {
+		display: inline-block;
+		li {
+			a {
+				color: #d6d1d1;
+				text-decoration: none;
+				padding: 30px 30px;
+				li {
+					&:hover {
+						background-color: #4e0404;
+					}
+				}
+			}
+		}
+	}
+}
+
+
